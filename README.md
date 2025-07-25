@@ -35,4 +35,3 @@ Users enter a positive integer in their browser, click **Check**, and the server
 4. **Run the server:**
    java PrimeServer
 
-   http://localhost:8000 = VISIT 
