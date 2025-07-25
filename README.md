@@ -33,5 +33,6 @@ Users enter a positive integer in their browser, click **Check**, and the server
    ```bash
    javac PrimeServer.java
 4. **Run the server:**
+```bash
    java PrimeServer
 
